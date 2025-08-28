@@ -365,10 +365,10 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     </td>
     <td ><!--  ドキュメント名  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D61020752
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D74922939
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) v2.8
+        Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) v2.13
       </a>
     </td>
     <td><!--  概要  -->
