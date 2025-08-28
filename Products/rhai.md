@@ -2,17 +2,12 @@
 sort: 10
 ---
 
-# Red Hat AI(OpenShift AI / Red Hat Enterprise Linux AI)
+# Red Hat AI
 
-<img src="images/Logo-Red_Hat-OpenShift_AI-A-Standard-RGB.png?raw=true" alt="ocpai-logo" title="ocpai">
-<img src="images/Logo-Red_Hat-Enterprise-Linux-AI-A-Red-RGB.png?raw=true" alt="rhai-logo" title="rhai">
+<img src="images/Logo-Red_Hat-AI-A-Standard-RGB.Small-logo.png?raw=true" alt="rhai" title="rhai">
 
-[Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai) 
-は、人工知能および機械学習 (AI/ML) アプリケーションのデータサイエンティストおよび開発者向けのプラットフォームです。
-OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルとアプリケーションを開発、トレーニング、提供、テスト、監視するための環境を提供します。
-
-[Red Hat Enterprise Linux AI](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai) 
-は、エンタープライズアプリケーション用のGraniteファミリー大規模言語モデル（LLM）をシームレスに開発、テスト、実行するための基盤モデルプラットフォームです。
+[Red Hat AI](https://www.redhat.com/ja/products/ai) 
+は、最初の実験から実稼働に至るまで、自社のビジネスに沿った AI ソリューションの構築と実行を可能にするRed HatのAIソリューションブランドです。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
@@ -24,7 +19,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/11/25
+最終更新日：2025/08/28
 </b>
 
 ## 01. 製品説明資料
@@ -38,10 +33,11 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AIのご紹介
+      Red Hat AIの紹介（ショート）
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift AIをご紹介するプレゼンテーション資料です。
+      Red HatのAI戦略、およびRed Hat AIのソリューションに含まれる製品の概要をクイックにご紹介するプレゼンテーション資料です。
+      まずはこちらをご参照ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -56,15 +52,16 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/25
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
-      大規模言語モデルのチューニングと展開の新たな形 - InstructLab・RHEL AI
+      Introduction to Red Hat AI -AIソリューションの開発と提供を加速-
     </td>
     <td><!--  概要  -->
-      RHEL AIをご紹介するプレゼンテーション資料です。生成AIの抱える課題と、それを解決し得るソリューションとしてのRHEL AIおよびInstructLabをご紹介します。
+      Red HatのAI戦略、およびRed Hat AIのソリューションに含まれる製品について、業界動向や事例も含めより詳細にご説明するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -79,7 +76,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/25
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
 </table>
@@ -272,10 +269,10 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AI 301 level technical deck
+      Overview of Red Hat OpenShift AI
     </td>
     <td><!--  概要  -->
-      OpenShift AIの技術詳細を説明したプレゼンテーション資料です。
+      Red Hat AIのソリューションの一部である、OpenShift AIについて紹介するテクニカルプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -290,7 +287,55 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/07
+      <!--  記載確認日  -->2025/08/28
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux AI Overview
+    </td>
+    <td><!--  概要  -->
+      Red Hat AIのソリューションの一部である、Red Hat Enterprise Linux AIについて紹介するテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2025/08/28
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Introduction to Red Hat AI Inference Server
+    </td>
+    <td><!--  概要  -->
+      Red Hat AIのソリューションの一部である、Red Hat AI Inference Serverについて紹介するテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
 
