@@ -1062,7 +1062,6 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
-
 </table>
 
 ## 04. 関連情報
@@ -1168,6 +1167,4 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       <!--  記載確認日  -->2023/7/5
     </td>
   </tr>
-
-
 </table>
