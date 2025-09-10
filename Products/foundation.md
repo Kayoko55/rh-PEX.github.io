@@ -220,7 +220,7 @@ Red Hat製品をクラウドサービス上で活用するためのガイドお�
   <tr>
       <td><!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/topics/cloud/committed-spend
+        https://www.redhat.com/ja/topics/cloud-computing/committed-spend
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         確約利用料とは

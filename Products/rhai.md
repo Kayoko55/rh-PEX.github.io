@@ -45,7 +45,7 @@ sort: 10
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=6d3a0862-fe00-436a-a8fb-72337b1e9658
+        https://content.redhat.com/us/en/assets/display.html?id=839bfa20-bc4f-4c47-977e-25bd0858ef69
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -69,7 +69,7 @@ sort: 10
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=165c2c57-0e51-4936-91d6-fe58d5794ca5
+        https://content.redhat.com/us/en/assets/display.html?id=790c3f29-e4b8-4f71-9618-3d65b119843d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -114,36 +114,7 @@ sort: 10
 
 </table>
 
-### 01-03. 提供形態
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-  <tr>
-    <td><!--  ドキュメント名  -->
-      RHOAI LLM vs GPU Sizing Guidelines
-    </td>
-    <td><!--  概要  -->
-    OpenShift AIで使用できる一般的なLLMモデルと推奨されるGPU、ストレージ、メモリの数に関するサイズ設定ガイドラインシートです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=6706ce9a-7261-4ea2-bd67-2c2a296efd17
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-         Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/11/07
-    </td>
-  </tr>
-</table>
+<!-- ### 01-03. 提供形態 -->
 
 ### 01-04. ライフサイクル
 
@@ -280,7 +251,7 @@ sort: 10
     <td>
       <!--  リンク先  -->
       <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+      https://content.redhat.com/us/en/assets/display.html?id=446f8976-5041-4106-b01f-19efe27ba3bc
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
@@ -304,7 +275,7 @@ sort: 10
     <td>
       <!--  リンク先  -->
       <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+      https://content.redhat.com/us/en/assets/display.html?id=faefd186-5820-40a7-957a-fb00eec9ae24
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
@@ -328,7 +299,7 @@ sort: 10
     <td>
       <!--  リンク先  -->
       <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+      https://content.redhat.com/us/en/assets/display.html?id=d4c3bd36-8864-4a72-abe7-7430c3b74151
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link

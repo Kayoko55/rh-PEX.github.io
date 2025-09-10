@@ -10,7 +10,7 @@ sort: 7
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
-アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+アカウントをお持ちでない場合、[Red Hat Partner Connect アカウント作成手順](../offering/register-partner-connect.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
@@ -233,14 +233,14 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f81e689f-7bbd-47b8-a991-11e69d21dd6f
+        https://content.redhat.com/us/en/assets/display.html?id=eba02b96-8d80-47a7-b980-b2f20407efd7
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/6/12
+      <!--  記載確認日  -->2025/8/28
     </td>
   </tr>
 
