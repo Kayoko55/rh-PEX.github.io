@@ -2,21 +2,16 @@
 sort: 10
 ---
 
-# Red Hat AI(OpenShift AI / Red Hat Enterprise Linux AI)
+# Red Hat AI
 
-<img src="images/Logo-Red_Hat-OpenShift_AI-A-Standard-RGB.png?raw=true" alt="ocpai-logo" title="ocpai">
-<img src="images/Logo-Red_Hat-Enterprise-Linux-AI-A-Red-RGB.png?raw=true" alt="rhai-logo" title="rhai">
+<img src="images/Logo-Red_Hat-AI-A-Standard-RGB.Small-logo.png?raw=true" alt="rhai" title="rhai">
 
-[Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai) 
-は、人工知能および機械学習 (AI/ML) アプリケーションのデータサイエンティストおよび開発者向けのプラットフォームです。
-OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルとアプリケーションを開発、トレーニング、提供、テスト、監視するための環境を提供します。
-
-[Red Hat Enterprise Linux AI](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai) 
-は、エンタープライズアプリケーション用のGraniteファミリー大規模言語モデル（LLM）をシームレスに開発、テスト、実行するための基盤モデルプラットフォームです。
+[Red Hat AI](https://www.redhat.com/ja/products/ai) 
+は、最初の実験から実稼働に至るまで、自社のビジネスに沿った AI ソリューションの構築と実行を可能にするRed HatのAIソリューションブランドです。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
-アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+アカウントをお持ちでない場合、[Red Hat Partner Connect アカウント作成手順](../offering/register-partner-connect.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
@@ -24,7 +19,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/11/25
+最終更新日：2025/9/10
 </b>
 
 ## 01. 製品説明資料
@@ -38,10 +33,11 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AIのご紹介
+      Red Hat AIの紹介（ショート）
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift AIをご紹介するプレゼンテーション資料です。
+      Red HatのAI戦略、およびRed Hat AIのソリューションに含まれる製品の概要をクイックにご紹介するプレゼンテーション資料です。
+      まずはこちらをご参照ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -49,22 +45,23 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=6d3a0862-fe00-436a-a8fb-72337b1e9658
+        https://content.redhat.com/us/en/assets/display.html?id=839bfa20-bc4f-4c47-977e-25bd0858ef69
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/25
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
-      大規模言語モデルのチューニングと展開の新たな形 - InstructLab・RHEL AI
+      Introduction to Red Hat AI -AIソリューションの開発と提供を加速-
     </td>
     <td><!--  概要  -->
-      RHEL AIをご紹介するプレゼンテーション資料です。生成AIの抱える課題と、それを解決し得るソリューションとしてのRHEL AIおよびInstructLabをご紹介します。
+      Red HatのAI戦略、およびRed Hat AIのソリューションに含まれる製品について、業界動向や事例も含めより詳細にご説明するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -72,14 +69,14 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=165c2c57-0e51-4936-91d6-fe58d5794ca5
+        https://content.redhat.com/us/en/assets/display.html?id=790c3f29-e4b8-4f71-9618-3d65b119843d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/25
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
 </table>
@@ -117,36 +114,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
 </table>
 
-### 01-03. 提供形態
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-  <tr>
-    <td><!--  ドキュメント名  -->
-      RHOAI LLM vs GPU Sizing Guidelines
-    </td>
-    <td><!--  概要  -->
-    OpenShift AIで使用できる一般的なLLMモデルと推奨されるGPU、ストレージ、メモリの数に関するサイズ設定ガイドラインシートです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=6706ce9a-7261-4ea2-bd67-2c2a296efd17
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-         Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/11/07
-    </td>
-  </tr>
-</table>
+<!-- ### 01-03. 提供形態 -->
 
 ### 01-04. ライフサイクル
 
@@ -272,10 +240,10 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AI 301 level technical deck
+      Overview of Red Hat OpenShift AI
     </td>
     <td><!--  概要  -->
-      OpenShift AIの技術詳細を説明したプレゼンテーション資料です。
+      Red Hat AIのソリューションの一部である、OpenShift AIについて紹介するテクニカルプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -283,14 +251,62 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+      https://content.redhat.com/us/en/assets/display.html?id=446f8976-5041-4106-b01f-19efe27ba3bc
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/07
+      <!--  記載確認日  -->2025/08/28
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux AI Overview
+    </td>
+    <td><!--  概要  -->
+      Red Hat AIのソリューションの一部である、Red Hat Enterprise Linux AIについて紹介するテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+      https://content.redhat.com/us/en/assets/display.html?id=faefd186-5820-40a7-957a-fb00eec9ae24
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2025/08/28
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Introduction to Red Hat AI Inference Server
+    </td>
+    <td><!--  概要  -->
+      Red Hat AIのソリューションの一部である、Red Hat AI Inference Serverについて紹介するテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+      https://content.redhat.com/us/en/assets/display.html?id=d4c3bd36-8864-4a72-abe7-7430c3b74151
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2025/08/28
     </td>
   </tr>
 
@@ -320,10 +336,10 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     </td>
     <td ><!--  ドキュメント名  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D61020752
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D74922939
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) v2.8
+        Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) v2.13
       </a>
     </td>
     <td><!--  概要  -->

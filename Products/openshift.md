@@ -1015,54 +1015,43 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
   <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift のスキルパス
+    <td>Red Hat OpenShift のスキルパス
     </td>
-    <td><!--  概要  -->
-      OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
+    <td>OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://www.redhat.com/ja/resources/openshift-skill-paths-brief
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/8/1
+      2023/8/1
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShiftトレーニングコンテンツのご紹介
+    <td>OpenShiftトレーニングコンテンツのご紹介
     </td>
-    <td><!--  概要  -->
-      Red Hatでは、パートナー様によるOpenShiftのご学習を効率良く進めて頂くため様々なトレーニングコンテンツを公開しています。 この資料では、複数存在するOpenShiftのトレーニングコンテンツを網羅的に紹介し、ご利用方法をガイドします。
+    <td>Red Hatでは、パートナー様によるOpenShiftのご学習を効率良く進めて頂くため様々なトレーニングコンテンツを公開しています。 この資料では、複数存在するOpenShiftのトレーニングコンテンツを網羅的に紹介し、ご利用方法をガイドします。
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=a0dfc905-3025-4c01-bedf-a29da16b777b
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=2396e2dc-6271-4947-a21a-00fd8e2553de
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
-
 </table>
 
 ## 04. 関連情報
@@ -1075,99 +1064,78 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShiftクラスターのバックアップ/リストア
+    <td>OpenShiftクラスターのバックアップ/リストア
     </td>
-    <td><!--  概要  -->
-      OpenShiftのバックアップ戦略についての解説、およびバックアップリストアに使用可能なコンポーネントを解説した資料です。
+    <td>OpenShiftのバックアップ戦略についての解説、およびバックアップリストアに使用可能なコンポーネントを解説した資料です。
     </td>
-    <td><!--  対象バージョン  -->
-      -
+    <td>-
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://speakerdeck.com/tutsunom/openshift-cluster-backup-restore
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      アプリケーションサーバーのReplatform
+    <td>アプリケーションサーバーのReplatform
     </td>
-    <td><!--  概要  -->
-      アプリケーションをKubernetes/やOpenShift上のコンテナへ移行するためには、アプリケーションの特性やスケジュールに合わせ移行戦略をRefactorやReplatformなど複数の選択肢から決定する必要があります。本資料では、移行戦略検討のための指針となる情報を提供し、その中でもReplatformについて具体的な手法を説明します。※ 本資料の再利用は、Red Hatビジネスアライアンスにおける利用の場合のみ可能です
+    <td>アプリケーションをKubernetes/やOpenShift上のコンテナへ移行するためには、アプリケーションの特性やスケジュールに合わせ移行戦略をRefactorやReplatformなど複数の選択肢から決定する必要があります。本資料では、移行戦略検討のための指針となる情報を提供し、その中でもReplatformについて具体的な手法を説明します。※ 本資料の再利用は、Red Hatビジネスアライアンスにおける利用の場合のみ可能です
     </td>
-    <td><!--  対象バージョン  -->
-      -
+    <td>-
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=d61695b3-da3c-4433-824f-e60ec6a9d0c2
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-        OpenShift Cluster Upgrade戦略
+    <td>OpenShift Cluster Upgrade戦略
     </td>
-    <td><!--  概要  -->
-      OpenShiftクラスタのアップグレードについて、アップグレードの仕組みと実行方法、およびアップグレード戦略について説明を行います。
+    <td>OpenShiftクラスタのアップグレードについて、アップグレードの仕組みと実行方法、およびアップグレード戦略について説明を行います。
     </td>
-    <td><!--  対象バージョン  -->
-      -
+    <td>-
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=c705890e-c481-4b37-a328-28d533302df5
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
+    </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShiftのセキュリティ機能のご紹介
+    <td>OpenShiftのセキュリティ機能のご紹介
     </td>
-    <td><!--  概要  -->
-      OpenShiftではお客様が安全にコンテナアプリケーションを開発、運用するため、複数のレイヤーでセキュリティ機能を提供しております。 本資料では、セキュリティに関するお客様の運用負担を軽減し、安全にコンテナをお使い頂くための仕組みをご紹介します。
+    <td>OpenShiftではお客様が安全にコンテナアプリケーションを開発、運用するため、複数のレイヤーでセキュリティ機能を提供しております。 本資料では、セキュリティに関するお客様の運用負担を軽減し、安全にコンテナをお使い頂くための仕組みをご紹介します。
     </td>
-    <td><!--  対象バージョン  -->
-      4.x
+    <td>4.x
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48535e6-7ab4-4348-af15-5e7c777ee4f0
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/7/5
+      2023/7/5
     </td>
   </tr>
-
-
 </table>

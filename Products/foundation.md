@@ -5,7 +5,7 @@ sort: 1
 # Red Hat 製品共通情報（サブスクリプション、サポート）
 
 <b>
-最終更新日：2024/11/28
+最終更新日：2025/9/10
 </b>
 
 ## サポート関連資料
@@ -220,7 +220,7 @@ Red Hat製品をクラウドサービス上で活用するためのガイドお�
   <tr>
       <td><!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/topics/cloud/committed-spend
+        https://www.redhat.com/ja/topics/cloud-computing/committed-spend
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         確約利用料とは
