@@ -4,12 +4,12 @@ sort: 1
 
 # Red Hat Partner Connect
 
-![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/top_new_20251001.png?raw=true)
+![picture][https://github.com/Kayoko55/rh-PEX.github.io/blob/main/offering/images/partner-connect/top_new_20251001.png]
 
 [Red Hat Partner Connect](https://connect.redhat.com/)は、Red Hatがグローバル共通で提供しているパートナー様向けのポータルサイトです。
-ビジネスパートナー様とテクノロジーパートナー様向けに2種類のサイトが用意されており、本One-Stopでは主にビジネスパートナー様向けに使用方法、活用方法の発信を行っています。
+本One-Stopでは主にResell（再販）、CCSP、ISV、Embeddedパートナー様向けに使用方法、活用方法の発信を行っています。
 
-ビジネスパートナー様向けのサイトでは、Red Hat製品の提案・学習に活用いただける下記のサービスをご提供しています。
+本サイトでは、Red Hat製品の提案・学習に活用いただける下記のサービスをご提供しています。
 
 |サービス|説明|
 |---|---|
